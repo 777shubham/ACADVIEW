@@ -1,0 +1,12 @@
+HELLO GIT
+
+GIT Commands:-
+git init			
+git add .				
+git status										
+git config --local user.name "Any name"	
+git config --local user.email "Your email"
+git commit -m "Enter your desired msg"
+git remote add origin link present in https/ssh when we create repository
+git push -u origin mastery
+git remote show origin or now refresh the github page and it will now show you the respository with desired files
