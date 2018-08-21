@@ -1,6 +1,5 @@
-HELLO GIT
 
-GIT Commands:-
+GIT Commands to execute 
 git init			
 git add .				
 git status										
